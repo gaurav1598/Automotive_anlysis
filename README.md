@@ -1,6 +1,5 @@
 # Automotive_anlysis
 
-# Product Manufacturer Project
 
 ## Overview
 The Product Manufacturer Project is a Python-based application designed to manage and analyze manufacturer data efficiently. This project includes functionalities such as reading manufacturer data, processing it, and providing various outputs that aid in decision-making.
